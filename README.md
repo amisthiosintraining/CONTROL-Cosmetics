@@ -1,6 +1,8 @@
 # CONTROL | Cosmetics
 Cosmetic touches for Jesse Faden of CONTROL.
 
+<img src="https://imgur.com/mpMLPpJ.png" alt="Cosmetics">
+
 ------
 
 **INSTRUCTIONS**
