@@ -3,9 +3,8 @@ Cosmetic touches for Jesse Faden of CONTROL.
 
 <img src="https://imgur.com/mpMLPpJ.png" alt="Cosmetics">
 
+Installation
 ------
-
-**INSTRUCTIONS**
 1) You will <a href="https://www.nexusmods.com/control/mods/11">NEED Loose File Loader</a> in order to install these mods.
 2) Go into Textures folder and pick the design/recolour you want to use.
 3) Copy and paste `data_pc` into your Control game folder.
@@ -18,8 +17,14 @@ OPTIONAL: If you haven't obtained the PS4 exclusive outfits (Urban Response, Ast
 
 ------
 
-**UNINSTALLATION**
-<br>Go to where you installed the mod either C: or D: or wherever you have your game installed.
+### Update
+- 03/28/2023 - Added skin correction for game capturing/photo mode. The retexture is only intended to help under harsh lighting to give a slightly normal complexion.
+
+------
+
+Removal
+------
+Go to where you installed the mod either C: or D: or wherever you have your game installed.
 
 Example: `C:\Epic Games\Control\data_pc`,
 <br>Example: `C:\SteamLibrary\steamapps\common\Control\data_pc`
